@@ -5,3 +5,4 @@ tombolSapa.addEventListener('click', function() {
 // 3. jalankan kode ini ketika tombol di-klik
 alert('Halo! Terima kasih sudah berkunjung!');
 });
+console.log("Script berhasil dijalankan!");
